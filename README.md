@@ -1,0 +1,1 @@
+This is a simple scrapper for a WhatsApp backup, to create a heatmap about the amount of messages sent per day and hour.
